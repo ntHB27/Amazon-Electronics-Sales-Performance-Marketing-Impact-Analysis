@@ -32,7 +32,7 @@ This project aims to identify and quantify the key factors influencing Amazon el
 * **Approach:** Binary grouping (Promoted vs. Full Price) evaluated via Mann-Whitney U Test.
 * **Key Finding (P-value = 0.0):** Promotions are the market norm (~76% of products use them). Applying a marketing flag mathematically doubles the sales velocity (Median volume of 100 units/month vs. 50 units/month for full-price items).
 
-## 📊 4. Interactive PowerBI Dashboard
+## 4. Interactive PowerBI Dashboard
 *(Provide a brief description of how stakeholders can use the dashboard here)*
 
 ![Dashboard Overview](results/dashboard_overview.png)
